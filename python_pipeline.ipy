@@ -35,7 +35,7 @@ def get_bgal_data(data, idx):
 
 bgal_data = get_bgal_data(g, idx)
 
-
+#This is a comment
 imshow(bgal_data)
 colorbar()
 
